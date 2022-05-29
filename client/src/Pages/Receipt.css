@@ -1,0 +1,31 @@
+.receipt{
+  /* color: #fff; */
+  background: rgb(255, 255, 255);
+  font-family: Inter;
+  background-size: 100% !important; 
+background-position: cover !important;
+z-index: 99999 !important;
+height: 100%;
+width: 100%;
+position: absolute;
+left: 0px;
+top: 0px;
+background-repeat: no-repeat;
+overflow: hidden;
+
+}
+
+#save{
+    left: 4600px;
+  }
+
+#btnn{
+  margin-right: 100px;
+  text-align: center;
+  left: 890px;
+  
+}
+
+#buttonSubmit{
+  margin-left: 100px;
+}

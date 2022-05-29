@@ -1,0 +1,473 @@
+#body1{
+  background-color: aliceblue;
+  
+/* background-color: #145BC1; */
+
+
+
+  font-family: 'Roboto', sans-serif;
+  background-size: 100% !important; 
+background-position: cover !important;
+z-index: 99999 !important;
+height: 100%;
+width: 100%;
+position: absolute;
+left: 0px;
+top: 0px;
+background-repeat: no-repeat;
+overflow: hidden;
+}
+
+#heading1 {
+  position: absolute;
+  width: 396px;
+  height: 0px;
+  left: 50px;
+  top: 40px;
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 61px;
+  display: flex;
+  align-items: center;
+  color: #223864;
+}
+#heading2 {
+  position: absolute;
+  width: 446px;
+  height: 20px;
+  left: 50px;
+  top: 65px;
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 41px;
+  display: flex;
+  align-items: center;
+  color: #223864;
+}
+#firstn{
+  position: absolute;
+  width: 159px;
+  height: 21.54px;
+  left: 145px;
+  top: 130px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+#txtfirst {
+  position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 138px;
+  top: 160px;
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+#lastn {
+  position: absolute;
+  width: 92px;
+  height: 22px;
+  left: 571px;
+  top: 130px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+#txtlast {
+  position: absolute;
+  width: 350px;
+  height: 55px;
+  left: 571px;
+  top: 160px;
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+#transportemailid{
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 987px;
+  top: 130px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+#emailbox {
+  position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 987px;
+  top: 160px;
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#createpass1{
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 138px;
+  top: 235px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+#passbox1 {
+  position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 138px;
+  top: 265px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#pass2 {
+  position: absolute;
+  width: 196.33px;
+  height: 21.54px;
+  left: 987px;
+  top: 235px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#confirmpassbox {
+  position: absolute;
+  width: 602px;
+  height: 55px;
+  left: 987px;
+  top: 265px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+#ownername {
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 138px;
+  top: 340px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+#vehicleownername {
+  position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 138px;
+  top: 370px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#vehname {
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 987px;
+  top: 340px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#vehiclenamebox {
+  position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 987px;
+  top: 370px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+#vehtype {
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 138px;
+  top: 440px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#vehicletypebox {
+  position: absolute;
+  width: 270px;
+  height: 55px;
+  left: 138px;
+  top: 470px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#vehregno {
+    position: absolute;
+  width: 292.19px;
+  height: 21.54px;
+  left: 470px;
+  top: 440px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#vehicleregnobox {
+  position: absolute;
+  width: 270px;
+  height: 55px;
+  left: 470px;
+  top: 470px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#vehno {
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 987px;
+  top: 440px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#vehiclenobox {
+  position: absolute;
+  width: 270px;
+  height: 55px;
+  left: 987px;
+  top: 470px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#rcbookid {
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 1320px;
+  top: 440px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#rcidbox {
+  position: absolute;
+  width: 270px;
+  height: 55px;
+  left: 1320px;
+  top: 470px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#ownlicence {
+  position: absolute;
+  width: 192.19px;
+  height: 21.54px;
+  left: 138px;
+  top: 545px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+#ownerliciencebox {
+  position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 138px;
+  top: 570px;
+
+  background: rgba(168, 187, 252, 0.2);
+  border: 1px solid #8692a6;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+#attachments {
+  position: absolute;
+  width: 117px;
+  height: 21px;
+  left: 987px;
+  top: 545px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 41px;
+  display: flex;
+  align-items: center;
+
+  color: #223864;
+}
+#uploadfilebox {
+  /* position: absolute;
+  width: 600px;
+  height: 55px;
+  left: 987px;
+  top: 570px;
+
+  border: 1px solid #000000;
+  border-radius: 6px; */
+  position: absolute;
+  width: 1007px;
+  height: 40px;
+  left: 987px;
+  top: 565px;
+  /* z-index: 9999 !important; */
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  
+  color: #000000;
+
+}
+/* input[type="file"]{
+
+align-items:flex-start;
+} */
+#registeracc{
+    position: absolute;
+    width: 570px;
+    height: 72px;
+    left: 560px;
+    top: 650px;
+    
+    background: #145BC1;
+    border-radius: 6px;
+    
+    
+    font-family: Jaldi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 51px;
+    
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+    
+    color: #FFFFFF;
+}
+
+#legalDoc{
+  position: absolute;
+  width: 1007px;
+  height: 40px;
+  left: 987px;
+  top: 610px;
+  font-size: small;
+  font-style: bold;
+}

@@ -1,0 +1,122 @@
+.Homebody {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+    overflow: hidden;
+    
+  
+
+     background: linear-gradient (90deg, rgb(186, 214, 246) 31%, rgba(231,240,253,1) 100%);
+  
+  
+  
+  }
+  #loginimg{
+    position: absolute;
+    width: 1708px;
+    height: 600px;
+    left: 0px;
+    bottom: 0px;
+    background: linear-gradient (90deg, rgb(186, 214, 246) 31%, rgba(231,240,253,1) 100%);
+  
+  }
+
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .nav{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+   
+  }
+  #home,#services,#about,#contact{
+    text-decoration: none;
+    color:  #001643;
+    font-size: 25px;
+    padding: 35px;
+  
+  }
+  #line{
+    position: absolute;
+  width: 550px;
+  height: 0px;
+  top: 65px;
+  right:20px;
+  border: 1px solid #8db2e6;
+  /* #8699DA */
+  }
+  #h1{
+    position: absolute;
+    left: 60px;
+    top: 0px;
+    font-size: 45px;
+    color: #001643;
+  }
+  #h2{
+    position: absolute;
+    left: 60px;
+    top: 50px;
+    font-size: 15px;
+    color: #223864;
+  }
+  #start{
+    position: absolute;
+    width: 350px;
+  height: 90px;
+  right: 25px;
+  top: 350px;
+    font-size: 25px;
+    color: #223864;
+  }
+
+  #login{
+  position: absolute;
+  width: 350px;
+  height: 90px;
+  right: 80px;
+  top: 100px;
+  
+  
+  background: #1565D8;
+  border: 5px solid rgba(168, 187, 252, 0.2);
+  box-sizing: border-box;
+  border-radius: 6px;
+  color: aliceblue;
+  font-size: 30px;
+  }
+  #transporter{
+    position: absolute;
+    width: 350px;
+    height: 90px;
+    right: 80px;
+    top: 250px;
+    
+    background: #1565D8;
+    border: 5px solid rgba(168, 187, 252, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: aliceblue;
+    font-size: 30px;
+  
+  }
+  #regvehicle{
+  position: absolute;
+  width: 350px;
+  right: 80px;
+  top: 400px;
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 61px;
+  color: #223864;
+  }

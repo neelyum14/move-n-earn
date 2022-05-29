@@ -1,0 +1,41 @@
+Hi mla eku yet ahe me meet vr nhi yet..
+ok
+ok chalel...fakta maja avaj yetoy?
+nhi tuja sodun dogincha yeto
+tya dogina sang ..
+ok 
+ata avaj nhi yet tyancha
+tena sangitla gapa basayla
+ok kahi doubt asel tr bolayla sang..nhitr tsach gapp bastil tya
+me screen share karte manje tena disel
+show me error
+what you want to achieve and how you are doing that?
+what to collect data in database i had tried the first way then i tried this part
+Run
+"ERR_EMPTY_RESPONSE" what do you think what is meaning of this?
+it is giving empty ERR_EMPTY_RESPONSE
+so then what you have to do?
+not sure
+give the response of your post event
+how?
+w http.ResponseWriter What is w here ?
+tell me
+w is for write? what write
+sakshi meetali tell me
+i can hear you
+are you guys there?
+we need to call the w right? for the response?
+tell me sakshi
+w http.ResponseWriter What is w here ?
+im not going forward until an unless you guys not replying me
+so then tell me how to send the response
+have you guys go though previous code
+have you refer it or not?
+yes gone through it
+is it causing the error because i missed the handler part?
+no your not sending response back to post event
+refer previous code and do it
+from the go part right?
+yes
+run
+run once again

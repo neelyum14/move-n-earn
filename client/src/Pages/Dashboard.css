@@ -1,0 +1,50 @@
+.Dashboard{
+    color: #fff;
+    background: rgb(220, 237, 250);
+    font-family: Inter;
+    background-size: 100% !important; 
+background-position: cover !important;
+z-index: 99999 !important;
+height: 100%;
+width: 100%;
+position: absolute;
+  left: 0px;
+  top: 0px;
+background-repeat: no-repeat;
+overflow: hidden;
+}
+
+.react-bootstrap-table {
+  height: 400px;
+}
+
+.DAsh{
+  width:1050px;
+  height: 850px;
+  overflow-y: scroll;
+}
+
+.billingbtn{
+  bottom: 40px ;
+  position: absolute;
+  width: 520px;
+  height: 72px;
+  left: 30px;
+  top: 630px;
+  
+  background: #145BC1;
+  border-radius: 6px;
+  
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 51px;
+  
+  text-align: center;
+  display:table-cell;
+  vertical-align:middle;
+  
+  color: #FFFFFF;
+}

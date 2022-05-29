@@ -1,0 +1,112 @@
+
+ .MapsContainer{
+     background-color:rgb(231, 231, 231);
+ }
+ 
+ h2{
+    padding-left: 20px;
+}
+.form-control{
+    padding: 2px 15px;
+    margin: 5px;
+    width: 450px;
+    
+    }
+    
+    .dateContainer{
+        width: 205px;
+    }
+    .btn btn-primary py-3 px-4{
+        align-items: center;
+    }
+    #maincontainer{
+        padding-bottom: 65px;
+        display: flex;
+        justify-content: center;
+    }
+    .form-group{
+        width: 500px;
+        padding-left: 15px;
+    }
+
+    #buttonSubmit1{
+        width: 450px;
+        height: 55px;
+        /* margin-top: 20px; */
+        font-family:Jaldi;
+        font-size:x-large ;
+        /* text-align: center; */
+        left: 20px;
+    } */
+
+
+    .request-form ftco-animate text-light bg-dark{
+       padding: 50px;
+      
+
+       
+    }
+    h1{
+        color: black;
+    }
+
+    .UserPartBody{
+        position: absolute;
+      left: 0px;
+      top: 0px;
+      background-size: 100% !important;
+      z-index: 99999 !important;
+      height: 100%;
+    width: 100%;
+    overflow:hidden;
+    }
+
+    .col-sm-3 col-md-6 col-lg-4{
+    
+    color: #fff;
+    background: aliceblue;
+    font-family: Inter;
+    background-size: 100% !important; 
+background-position: cover !important;
+z-index: 99999 !important;
+height: 100%;
+width: 100%;
+position: absolute;
+  left: 0px;
+  top: 0px;
+background-repeat: no-repeat;
+
+
+
+    }
+
+
+
+.BlackContainer{
+
+    max-height:850px;
+    width: 100%;
+
+    
+    position: relative;
+    
+  overflow-y: scroll;
+  
+    
+}
+.MapsContainer{
+    
+    position: relative;
+    height: 100%;
+    width: 67%;
+  position: absolute;
+       right: 0px;
+      top: 0px;
+      background-size: 100% !important;
+      z-index: 99999 !important;
+    
+    }
+
+
+
+

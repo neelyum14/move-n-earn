@@ -1,0 +1,338 @@
+.SignupBody{
+
+     /* overflow: hidden;
+
+    background-color: aliceblue;
+
+     background-size: 100% !important; 
+  background-position: cover !important;
+  z-index: 99999 !important;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat; */
+  background-color: aliceblue;
+
+
+
+  font-family: 'Roboto', sans-serif;
+  background-size: 100% !important; 
+background-position: cover !important;
+z-index: 99999 !important;
+height: 100%;
+width: 100%;
+position: absolute;
+left: 0px;
+top: 0px;
+background-repeat: no-repeat;
+
+  
+}
+#Signupimg{
+    /* overflow: hidden;
+     background-size:cover ; 
+     width: 50%;
+    height: 70%; */
+
+
+    background-size: cover;
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+
+
+
+#signupmsg{
+    position: absolute;
+  width: 574px;
+  height: 42.37px;
+  left: 630px;
+  top: 15px;
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 81px;
+  display: flex;
+  align-items: center;
+  
+  color: #223864;
+  }
+  
+  #msg{
+  position: absolute;
+  width: 604px;
+  height: 62.98px;
+  left: 570px;
+  top: 80px;
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 15px;
+  /* or 127% */
+  
+  display: flex;
+  align-items: center;
+  
+  color: #284e8f;
+  }
+  
+  #already{
+  position: absolute;
+  width: 251px;
+  height: 34px;
+  left: 630px;
+  top: 140px;
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 34px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  
+  color: #000000;
+  }
+  
+  /* Sign Up left */
+  
+  #first{
+  position: absolute;
+  width: 159px;
+  height: 21.54px;
+  left: 350px;
+  top: 210px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  
+  color: #16191d;
+  /* color: #696F79; */
+  }
+  #last{
+  position: absolute;
+  width: 159px;
+  height: 21.54px;
+  left: 1000px;
+  top: 210px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  
+  color: #16191d;
+  }
+  #contact1{
+  position: absolute;
+  width: 159px;
+  height: 21.54px;
+  left: 350px;
+  top: 330px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  
+  color: #16191d;
+  }
+  #email{
+  position: absolute;
+  width: 159px;
+  height: 21.54px;
+  left: 1000px;
+  top: 330px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  
+  color: #16191d;
+  }
+  #password{
+  position: absolute;
+  width: 159px;
+  height: 21.54px;
+  left: 350px;
+  top: 460px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  
+  color: #16191d;
+  }
+  #repassword{
+  position: absolute;
+  width: 259px;
+  height: 21.54px;
+  left: 1000px;
+  top: 460px;
+
+  font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #16191d;
+  }
+  #firstname{
+  position: absolute;
+  width: 373px;
+  height: 60px;
+  left: 350px;
+  top: 240px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8692A6;
+  box-sizing: border-box;
+  border-radius: 6px;
+  /* value font */
+  }
+  #lastname{
+  position: absolute;
+  width: 373px;
+  height: 60px;
+  left: 1000px;
+  top: 240px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8692A6;
+  box-sizing: border-box;
+  border-radius: 6px;
+  }
+  #Contactno{
+  position: absolute;
+  width: 373px;
+  height: 60px;
+  left: 350px;
+  top: 360px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8692A6;
+  box-sizing: border-box;
+  border-radius: 6px;
+  }
+  #emailid{
+  position: absolute;
+  width: 373px;
+  height: 60px;
+  left: 1000px;
+  top: 360px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8692A6;
+  box-sizing: border-box;
+  border-radius: 6px;
+  }
+  #pass{
+  position: absolute;
+  width: 373px;
+  height: 60px;
+  left: 350px;
+  top: 490px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8692A6;
+  box-sizing: border-box;
+  border-radius: 6px;
+  }
+  #pass1{
+  position: absolute;
+  width: 373px;
+  height: 60px;
+  left: 1000px;
+  top: 490px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8692A6;
+  box-sizing: border-box;
+  border-radius: 6px;
+  }
+  input[type="text"],[type="number"],[type="email"],[type="password"]{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  color: #16191d;
+  }
+  #agree{
+  position: absolute;
+  width: 20px;
+  height: 17px;
+  left: 350px;
+  top: 589px;
+  }
+  #terms{
+  position: absolute;
+  width: 304.18px;
+  height: 21.54px;
+  left: 380px;
+  top: 587px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  
+  color: #696F79;
+  }
+  #submit{
+  position: absolute;
+  width: 570px;
+  height: 72px;
+  left: 560px;
+  top: 630px;
+  
+  background: #145BC1;
+  border-radius: 6px;
+  
+  
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 51px;
+  
+  text-align: center;
+  display:table-cell;
+  vertical-align:middle;
+  
+  color: #FFFFFF;
+  }
+  
